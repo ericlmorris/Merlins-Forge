@@ -1,0 +1,20 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "   ",
+    "XXX",
+    "###"
+  ],
+  "key": {
+     "X": {
+      "item": "minecraft:string"
+    },
+    "#": {
+      "item": "minecraft:oak_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:red_bed",
+	"count": 3
+  }
+}

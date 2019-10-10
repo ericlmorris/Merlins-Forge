@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " X ",
+    " # ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+       "item": "merlinsforge:merlinsdiamond"
+    }
+  },
+  "result": {
+    "item": "merlinsforge:merlinstravelingstaff"
+  }
+}

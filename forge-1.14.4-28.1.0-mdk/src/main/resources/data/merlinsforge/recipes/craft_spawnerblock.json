@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "X": {
+       "item": "merlinsforge:merlinsgold"
+    }
+  },
+  "result": {
+    "item": "merlinsforge:spawnerblock"
+  }
+}

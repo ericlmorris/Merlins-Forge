@@ -1,0 +1,20 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "   ",
+    "XXX",
+    "###"
+  ],
+  "key": {
+     "X": {
+      "item": "minecraft:string"
+    },
+    "#": {
+      "item": "minecraft:spruce_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:purple_bed",
+	"count": 3
+  }
+}

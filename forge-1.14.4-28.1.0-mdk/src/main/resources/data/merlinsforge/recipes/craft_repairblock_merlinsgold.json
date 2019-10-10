@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "merlinsforge:merlinsdiamond"
+    },
+    "X": {
+       "item": "minecraft:anvil"
+    }
+  },
+  "result": {
+    "item": "merlinsforge:repairblock"
+  }
+}

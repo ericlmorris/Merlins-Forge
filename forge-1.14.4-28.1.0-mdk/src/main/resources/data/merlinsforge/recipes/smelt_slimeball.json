@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "slime_ball"
+  },
+  "result": "merlinsforge:merlinsgold",
+  "experience": 0.1,
+  "cookingtime": 50
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "merlinsforge:blocks/repairblock_top",
+        "front": "merlinsforge:blocks/repairblock_side",
+        "side": "merlinsforge:blocks/repairblock_side"    
+		}
+}

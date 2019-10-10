@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "merlinsforge:merlinspickaxe"
+  },
+  "result": "merlinsforge:merlinspickaxe",
+  "experience": 0.1,
+  "cookingtime": 25
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "block/orientable",
+
+  "textures": {
+
+    "top": "merlinsforge:blocks/basic_furnace_top",
+    "side": "merlinsforge:blocks/basic_furnace_side",
+    "front": "merlinsforge:blocks/basic_furnace_front"
+  }
+}

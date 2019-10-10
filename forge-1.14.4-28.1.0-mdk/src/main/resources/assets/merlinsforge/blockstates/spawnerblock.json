@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "merlinsforge:block/spawnerblock" }
+  }
+}
